@@ -1,0 +1,42 @@
+"cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.2"
+
+"nodemon": "^3.1.7" // tener actualizado nuestro servidor
+
+ inicializar nodemon
+
+npm init -y
+
+npm install express //framework
+
+npm i mongoose
+
+npm i cors
+
+npm i dotenv
+
+npm i nodemon -D
+
+//PARA SUBIR EL SERVIDOR
+
+npm run start
+
+Instalar en el Visual estudio la extensión: Dotenv
+
+MongoDB
+
+Usuario: juannemesis
+Contraseña: NVXYZCCfEuNzs2iS
+
+nuevo usuario BD
+
+juanpablo23102024
+2684
+
+Conexión BD:
+mongodb+srv://juanpablo23102024:2684@cluster0.zpj78.mongodb.net/
+
+Despues de toda la configuración para arrancar el servidor desd ela terminal ya que asi lo definimos
+npm run start
